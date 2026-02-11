@@ -6,3 +6,6 @@ test/
 /version
 /TAGS
 *DS_Store
+CLAUDE.md
+.gitignore
+nul
